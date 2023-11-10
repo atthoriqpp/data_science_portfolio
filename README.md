@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Repository containing portfolios of data analytics projects completed by me for data science skill developments. The portfolios are presented in the form of Jupyter Notebook and PDF containing a more visually pleasing report. 
+Repository containing portfolios of data analytics projects completed by me for data science skill developments. The portfolios are presented in the form of Jupyter Notebook and PDF containing a more visually pleasing report. If you want to run the notebooks in your own environment, you can use the attached requirements.txt in each project's folder.
 
 ## Projects
 - ### Analysis and Visualization
