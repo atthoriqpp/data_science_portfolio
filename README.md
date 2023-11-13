@@ -20,7 +20,7 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
     
     An informative analysis of universities around the world, tailored specifically for international students seeking useful insights and recommendations. Additionally, this project identifies potential problems in universities, which will be further investigated in future analyses with more relevant data and potential solutions.
     
-    [Notebook](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/global_university_rankings_2023/top-universities-for-international-students%20(1).ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/global_university_rankings_2023/Global%20University%20Rankings%202023%20Analysis.pdf)
+    [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/main/global_university_rankings_2023/top-universities-for-international-students.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/global_university_rankings_2023/Global%20University%20Rankings%202023%20Analysis.pdf)
     
 - ### Machine Learning
   - #### Supervised Learning
