@@ -28,7 +28,7 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
     
        Analysis of an e-commerce shipments dataset where the company is facing late shipments problem. Produced a classification model using the random forest algorithm and identified the factors that are associated with late deliveries.
 
-      [Notebook](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/e-commerce_shipping_prediction/e-commerce-shipment-perspective-prediction.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/e-commerce_shipping_prediction/E-Commerce%20Shipment%20Prediction.pdf)
+      [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/main/e-commerce_shipping_prediction/e-commerce-shipment-perspective-prediction.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/e-commerce_shipping_prediction/E-Commerce%20Shipment%20Prediction.pdf)
    
 If you have questions or are interested in knowing more about the portfolio, please feel free to reach out to me either by:
 - Email: atthoriqpp.student@gmail.com
