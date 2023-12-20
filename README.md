@@ -21,6 +21,12 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
     An informative analysis of universities around the world, tailored specifically for international students seeking useful insights and recommendations. Additionally, this project identifies potential problems in universities, which will be further investigated in future analyses with more relevant data and potential solutions.
     
     [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/main/global_university_rankings_2023/top-universities-for-international-students.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/global_university_rankings_2023/Global%20University%20Rankings%202023%20Analysis.pdf)
+
+  - **Analyzing E-Commerce Business Performance with SQL**
+    
+     An exploratory data visualization study delved into the core metrics driving an e-commerce's success. Identified actionable insights by analyzing customer activity, revenue, product performance, and payment types and designed a custom dashboard for stakeholders. Additionally, the project showcased PgAdmin (PostgreSQL) for efficient database management.
+    
+    [Query Files](https://github.com/atthoriqpp/data_science_portfolio/tree/main/analyzing_e-commerce_business_performance_with_sql/query_files) | [Report (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/main/analyzing_e-commerce_business_performance_with_sql/Final%20Report_Analyzing%20eCommerce%20Business%20Performance%20with%20SQL_Atthoriq%20Putra%20Pangestu.pdf) | [Technical Documentation (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/main/analyzing_e-commerce_business_performance_with_sql/Documentation_Analyzing%20eCommerce%20Business%20Performance%20with%20SQL_Atthoriq%20Putra%20Pangestu.pdf)
     
 - ### Machine Learning
   - #### Supervised Learning
