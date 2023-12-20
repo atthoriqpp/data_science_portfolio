@@ -9,10 +9,10 @@ Prior to his data science journey, he demonstrated his entrepreneurial skills by
 Now, he seeks opportunities to apply his data science expertise to real-world scenarios, empowering companies to make informed decisions driven by data insights.
 
 ## Certifications and Trainings
-1. [Rakamin Academy Data Science Bootcamp](https://drive.google.com/file/d/1zNqwX1lKTFjfao6_X8dMunKTsYbvaIDx/view?usp=sharing) *(Rakamin Academy | 2023)* 
-3. [Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/5c6499cc62e40dc7db3fd07e68aa9820c70a46be) *(DataCamp | 2023)*
-5. [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/17b96eb5916fe0df8a09d43c715309af60832dc4) *(DataCamp | 2023)*
-6. [Google Data Analytics Certificate](https://www.credly.com/badges/f1abe8c6-fe17-4214-b05d-0ab5914fa323/linked_in_profile) *(Coursera | 2023)*
+1. [Rakamin Academy Data Science Bootcamp](https://drive.google.com/file/d/1zNqwX1lKTFjfao6_X8dMunKTsYbvaIDx/view?usp=sharing) (Rakamin Academy | 2023)
+3. [Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/5c6499cc62e40dc7db3fd07e68aa9820c70a46be) (DataCamp | 2023)
+5. [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/17b96eb5916fe0df8a09d43c715309af60832dc4) (DataCamp | 2023)
+6. [Google Data Analytics Certificate](https://www.credly.com/badges/f1abe8c6-fe17-4214-b05d-0ab5914fa323/linked_in_profile) (Coursera | 2023)
 
 ## Projects
 - ### Analysis and Visualization
