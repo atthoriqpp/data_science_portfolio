@@ -21,7 +21,15 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
      An exploratory data visualization study delved into the core metrics driving an e-commerce's success. Identified actionable insights by analyzing customer activity, revenue, product performance, and payment types and designed a custom dashboard for stakeholders. Additionally, the project showcased PgAdmin (PostgreSQL) for efficient database management.
     
     [Query Files](https://github.com/atthoriqpp/data_science_portfolio/tree/main/analyzing_e-commerce_business_performance_with_sql/query_files) | [Report (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/main/analyzing_e-commerce_business_performance_with_sql/Final%20Report_Analyzing%20eCommerce%20Business%20Performance%20with%20SQL_Atthoriq%20Putra%20Pangestu.pdf) | [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/cac6363e-b9f8-4dee-a528-de7dd58ba502) | [Technical Documentation (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/main/analyzing_e-commerce_business_performance_with_sql/Documentation_Analyzing%20eCommerce%20Business%20Performance%20with%20SQL_Atthoriq%20Putra%20Pangestu.pdf)
+  
+  - **Project Based Virtual Intern: Kimia Farma x Rakamin Academy Datamart and Dashboard Building**
     
+     A project that produced a datamart and built a dashboard for Kimia Farma, an Indonesian pharmaceutical producer and distributor, covering sales data from January 2022 to June 2022. This involved creating a database from raw data and processing sales information using PostgreSQL. As the final step, I developed a sales dashboard using Looker Studio, highlighting key metrics like total sales, average sales, total transactions, top sales by location, top-selling brands, top-selling products, and top customers by store type.
+
+    *Note: Access to the data source is restricted to participants in this program.*
+    
+    [Query Files](https://github.com/atthoriqpp/data_science_portfolio/blob/224231baccbf1529a2be725b32fc8104a76e0be6/project_based_virtual_intern_kimia_farma_x_rakamin_academy_datamart_and_dashboard_building/query_file/KimiaFarma_SalesQuery.sql) | [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/abbcaf17-8598-415d-8988-15aea76160fc) | [Data Source](https://www.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
+
   - **Top Universities for International Students**
     
     An informative analysis of universities around the world, tailored specifically for international students seeking useful insights and recommendations. Additionally, this project identifies potential problems in universities, which will be further investigated in future analyses with more relevant data and potential solutions.
