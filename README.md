@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Data analytics project repository for data science skill development. Portfolios are presented as Jupyter Notebooks/SQL Query Files and reports (PDF). Use the `requirements.txt` file in each project folder to run the notebooks in your environment.
+Data analytics project repository for data science skill development. Portfolios are presented as Jupyter Notebooks/SQL Query Files and Reports (PDF). Use the `requirements.txt` file in each project folder to run the notebooks in your environment.
 
 ## About me
 A driven business administration graduate with a passion for data science. Recently completed Rakamin Academy's Data Science Bootcamp and was awarded the runner-up spot for Best Final Project Team. Proficient in Python, SQL, and Looker Studio, he is always eager to expand his knowledge in the dynamic field of data science.
