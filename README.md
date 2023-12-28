@@ -28,7 +28,7 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
 
     *Note: Access to the data source is restricted to participants in this program.*
     
-    [Query Files](https://github.com/atthoriqpp/data_science_portfolio/blob/224231baccbf1529a2be725b32fc8104a76e0be6/project_based_virtual_intern_kimia_farma_x_rakamin_academy_datamart_and_dashboard_building/query_file/KimiaFarma_SalesQuery.sql) | [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/abbcaf17-8598-415d-8988-15aea76160fc) | [Data Source](https://www.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
+    [Query File](https://github.com/atthoriqpp/data_science_portfolio/blob/8ea91e56b9b31a4de61c8304290b8b02324a1393/project_based_virtual_intern_kimia_farma_x_rakamin_academy_datamart_and_dashboard_building/KimiaFarma_SalesQuery.sql) | [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/abbcaf17-8598-415d-8988-15aea76160fc) | [Data Source](https://www.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
 
   - **Top Universities for International Students**
     
