@@ -15,7 +15,7 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
 4. [Google Data Analytics Certificate](https://www.credly.com/badges/f1abe8c6-fe17-4214-b05d-0ab5914fa323/linked_in_profile) (Coursera | 2023)
 
 ## Projects
-- ### Analysis and Visualization
+- ### Exploratory Analysis and Visualization
   - **Analyzing E-Commerce Business Performance with SQL**
     
      An exploratory data visualization study delved into the core metrics driving an e-commerce's success. Identified actionable insights by analyzing customer activity, revenue, product performance, and payment types and designed a custom dashboard for stakeholders. Additionally, the project showcased PgAdmin (PostgreSQL) for efficient database management.
@@ -38,11 +38,18 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
     
 - ### Machine Learning
   - #### Supervised Learning
-    - **E-Commerce Shipping Perspective & Prediction**
+    - **E-Commerce Shipping Perspective & Prediction (Classification)**
     
        Analysis of an e-commerce shipments dataset where the company is facing late shipments problem. Produced a classification model using the random forest algorithm and identified the factors that are associated with late deliveries.
 
       [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/main/e-commerce_shipping_prediction/e-commerce-shipment-perspective-prediction.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_analytics_portfolios/blob/main/e-commerce_shipping_prediction/E-Commerce%20Shipment%20Prediction.pdf)
+
+  - #### Unsupervised Learning
+    - **E-commerce Transaction: RFM Clustering with K-Means (Clustering)**
+    
+       Analysis of sales data (Nov 2018-Nov 2019 period) from a UK online gift & homeware store (est. 2007) to identify the most promising customer segment for targeted marketing. Used Exploratory Data Analysis (EDA), K-Means Clustering, Principal Component Analysis (PCA), and Recency Frequency Monetary (RFM) analysis to segment and profile the most valuable group, tailoring recommendations to their unique characteristics.
+
+      [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/fe2e388ea66389bf17e9735e73b726f44d12d493/e_commerce_transaction_rfm_clustering/e-commerce-analysis-rfm-clustering-with-k-means.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/fe2e388ea66389bf17e9735e73b726f44d12d493/e_commerce_transaction_rfm_clustering/Report_E-Commerce%20Transaction%20RFM%20Clustering.pdf)
    
 If you have questions or are interested in knowing more about the portfolio, please feel free to reach out to me either by:
 - Email: atthoriqpp.student@gmail.com
