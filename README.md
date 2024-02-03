@@ -24,13 +24,13 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
 
   - **Project Based Virtual Intern: Bank Muamalat x Rakamin Academy Database and Dashboard Building**
     
-     This project analyzed synthetic client transaction data (Jan 2020 - Dec 2021). Processed 4 raw transaction data from CSV to Google BigQuery's database (aided by initial Excel work.) Finally, a Looker Studio dashboard summarized key sales trends: total sales, order quantity, transaction count, average sales trends, and product/city breakdowns. This provided valuable insights for the bank client to monitor their overall transaction performance at any given time.
+     A project that produced a database and dashboard from synthetic client transaction data (Jan 2020 - Dec 2021). Processed 4 raw transaction data from CSV to Google BigQuery's database (aided by initial Excel work.) Finally, a Looker Studio dashboard summarized key sales trends: total sales, order quantity, transaction count, average sales trends, and product/city breakdowns. This provided valuable insights for the bank client to monitor their overall transaction performance at any given time.
     
     [Project Explanation Video](https://drive.google.com/file/d/1RRCVNeQjQvHZ8JG3PPdnWw4UrJKR28Nf/view?usp=sharing) | [Query File 1: Data Definition](https://console.cloud.google.com/bigquery?sq=861814418732:01fbfdae05f84426b4ecd8c373ddf4a3) | [Query File 2: Master Table Creation](https://console.cloud.google.com/bigquery?sq=861814418732:14ae8be03926430cbde287b244a71995) | [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/baaf9894-26cf-4d87-b60a-253f1b1f964d) | [Data Source](https://github.com/atthoriqpp/data_science_portfolio/tree/794d4a363faf92549eff1b6c8721f5807f0bafe6/project_based_virtual_intern_bank_muamalat_business_intelligence_analyst/dataset)
 
   - **Project Based Virtual Intern: Kimia Farma x Rakamin Academy Datamart and Dashboard Building**
     
-     A project that produced a datamart and built a dashboard for Kimia Farma, an Indonesian pharmaceutical producer and distributor, covering sales data from January 2022 to June 2022. This involved creating a database from raw data and processing sales information using PostgreSQL. As the final step, I developed a sales dashboard using Looker Studio, highlighting key metrics like total sales, average sales, total transactions, top sales by location, top-selling brands, top-selling products, and top customers by store type.
+     A project that produced a database, datamart, and built a dashboard for Kimia Farma, an Indonesian pharmaceutical producer and distributor, covering sales data from January 2022 to June 2022. This involved creating a database from raw data and processing sales information using PostgreSQL. As the final step, I developed a sales dashboard using Looker Studio, highlighting key metrics like total sales, average sales, total transactions, top sales by location, top-selling brands, top-selling products, and top customers by store type.
 
     *Note: Access to the data source is restricted to participants in this program.*
     
