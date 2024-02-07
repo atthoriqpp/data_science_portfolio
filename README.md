@@ -55,7 +55,7 @@ Now, he seeks opportunities to apply his data science expertise to real-world sc
     
        Analysis of sales data (Nov 2018-Nov 2019 period) from a UK online gift & homeware store (est. 2007) to identify the most promising customer segment for targeted marketing. Used Exploratory Data Analysis (EDA), K-Means Clustering, Principal Component Analysis (PCA), and Recency Frequency Monetary (RFM) analysis to segment and profile the most valuable group, tailoring recommendations to their unique characteristics.
 
-      [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/fe2e388ea66389bf17e9735e73b726f44d12d493/e_commerce_transaction_rfm_clustering/e-commerce-analysis-rfm-clustering-with-k-means.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/fe2e388ea66389bf17e9735e73b726f44d12d493/e_commerce_transaction_rfm_clustering/Report_E-Commerce%20Transaction%20RFM%20Clustering.pdf)
+      [Notebook](https://github.com/atthoriqpp/data_science_portfolio/blob/ea0768ff060223837c1113b6995a831004968aa7/e_commerce_transaction_rfm_clustering/e-commerce-analysis-rfm-clustering-with-k-means.ipynb) | [Report (PDF)](https://github.com/atthoriqpp/data_science_portfolio/blob/fe2e388ea66389bf17e9735e73b726f44d12d493/e_commerce_transaction_rfm_clustering/Report_E-Commerce%20Transaction%20RFM%20Clustering.pdf)
    
 If you have questions or are interested in knowing more about the portfolio, please feel free to reach out to me either by:
 - Email: atthoriqpp.student@gmail.com
